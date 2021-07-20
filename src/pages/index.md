@@ -122,8 +122,7 @@ sections:
     title: 'How Do We Work ! '
     subtitle: 'Supporting The Cause, Building Working Together Platform'
     grid_items:
-      - subtitle: 'React Awesome, USA'
-        content: >-
+      - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
 
