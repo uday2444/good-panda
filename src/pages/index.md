@@ -138,12 +138,8 @@ sections:
         image_position: top
         title: Tactic
       - title: Goals & Objectives
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
+        content: |
+          Maximize efficiency that effectively fulfill associate’s needs.
         image: images/avatar_3.jpg
         image_alt: Speaker 3 photo
         image_position: top
