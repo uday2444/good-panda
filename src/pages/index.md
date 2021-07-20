@@ -356,10 +356,10 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >
-          [Facebook](https://www.facebook.com/Trust-Secure-Facility-Management-101462945561632/)\<br/>
+          [Facebook](https://www.facebook.com/Trust-Secure-Facility-Management-101462945561632/)
 
 
-          [Linkedin](https://www.linkedin.com/company/79639336/admin/)\<br/>
+          [Linkedin](https://www.linkedin.com/company/79639336/admin/)
         content_align: left
         actions: []
         actions_align: left
