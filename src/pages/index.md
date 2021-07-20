@@ -60,12 +60,9 @@ sections:
   - type: features_section
     title: What you’ll experience
     features:
-      - content: >2
-                                                                                                           Unique Drive 
-
-
+      - content: >
           Setting up a Cross functional teams to improve productive and to
-          enhance flow by solving operational concerns. 
+          enhance flow by solving operational concerns.
         align: center
     feature_padding_vert: medium
     align: center
