@@ -60,9 +60,7 @@ sections:
   - type: features_section
     title: What you’ll experience
     features:
-      - content: >
-          Setting up a Cross functional teams to improve productive and to
-          enhance flow by solving operational concerns.
+      - content: "Two heads are better than one when it comes to good decision making\n\nFor thoroughly understanding the situation in-depth and superficial, senior executives commute worksite as we trust fixing flaw/improvement should be made on the verified data.\_\_\_ \n"
         align: center
     feature_padding_vert: medium
     align: center
