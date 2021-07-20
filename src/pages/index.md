@@ -150,7 +150,7 @@ sections:
 
 
 
-        image: images/operations.jpg
+        image: images/operations 3.jfif
         image_alt: Speaker 4 photo
         image_position: top
         image_has_padding: true
