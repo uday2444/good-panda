@@ -140,7 +140,7 @@ sections:
       - title: Goals & Objectives
         content: |
           Maximize efficiency that effectively fulfill associate’s needs.
-        image: images/avatar_3.jpg
+        image: images/goals2.jpg
         image_alt: Speaker 3 photo
         image_position: top
       - title: Operations Management
