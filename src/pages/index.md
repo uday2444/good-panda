@@ -354,17 +354,14 @@ sections:
           **Time:** 9:30 AM to 3:30 PM
       - title: Happy TO Stay Updated
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          [Facebook](https://www.facebook.com/Trust-Secure-Facility-Management-101462945561632/)
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          [Linkedin](https://www.linkedin.com/company/79639336/admin/)
 
 
-          - Lorem ipsum
 
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
