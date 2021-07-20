@@ -118,7 +118,9 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Facility Management System
-      - title: lorem-ipsum
+      - title: |-
+          Promoters’/ Sales
+          representatives
         subtitle: lorem-ipsum
         title_align: left
         content: >-
