@@ -149,9 +149,7 @@ sections:
         type: grid_item
         title: FMCG BTL Services
         image: images/1081.jpg
-      - title: |-
-          Promoters’/ Sales
-          representatives
+      - title: Marketing Strategies
         subtitle: lorem-ipsum
         title_align: left
         content: >-
