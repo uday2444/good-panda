@@ -360,7 +360,7 @@ sections:
             url: >-
               https://www.facebook.com/Trust-Secure-Facility-Management-101462945561632/
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
