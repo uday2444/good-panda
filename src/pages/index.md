@@ -48,6 +48,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+    title: Decision Making
   - type: grid_section
     grid_items:
       - title_align: left
