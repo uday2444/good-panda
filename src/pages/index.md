@@ -18,17 +18,7 @@ sections:
     background_image_size: cover
     title: Define. Excel. Accelerate.
   - title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Two heads are better than one when it comes to good decision making. \n\nFor thoroughly understanding the situation in-depth and superficial, senior executives commute worksite as we trust fixing flaw/improvement should be made on the verified data.\_\_\_ \n"
     content_align: left
     form_position: bottom
     form_width: fifty
