@@ -138,7 +138,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Facility Management
+        title: FMCG BTL Services
       - title: |-
           Promoters’/ Sales
           representatives
