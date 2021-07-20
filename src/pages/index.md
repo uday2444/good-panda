@@ -104,7 +104,7 @@ sections:
   - type: cta_section
     title: This is a Call to Action
     actions:
-      - label: Get tickets
+      - label: Call US
         url: /thank-you
         style: primary
         has_icon: true
