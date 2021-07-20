@@ -352,7 +352,7 @@ sections:
           [email@example.com](mailto:email@example.com)<br/>
 
           **Time:** 9:30 AM to 3:30 PM
-      - title: Follow Us On
+      - title: Follow Us
         subtitle: lorem-ipsum
         title_align: left
         content: >
