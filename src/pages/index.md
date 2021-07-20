@@ -352,37 +352,6 @@ sections:
           [email@example.com](mailto:email@example.com)<br/>
 
           **Time:** 9:30 AM to 3:30 PM
-      - title: Happy To Stay Updated
-        title_align: left
-        content_align: left
-        actions:
-          - label: Facebook
-            url: >-
-              https://www.facebook.com/Trust-Secure-Facility-Management-101462945561632/
-            style: link
-            has_icon: true
-            icon: facebook
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-          - label: Linkedin
-            url: 'https://www.linkedin.com/company/79639336/admin/'
-            style: link
-            has_icon: false
-            icon: linkedin
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
