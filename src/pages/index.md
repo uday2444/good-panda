@@ -129,12 +129,11 @@ sections:
         image_position: top
         title: Strategy
       - subtitle: 'The Studio, Distributed, Estonia'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+        content: |+
+          A maneuver or action calculated to achieve some end
 
 
-          **[Twitter](https://twitter.com/)**
+
         image: images/avatar_2.jpg
         image_alt: Speaker 2 photo
         image_position: top
