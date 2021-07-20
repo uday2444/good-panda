@@ -144,12 +144,12 @@ sections:
         image_alt: Speaker 3 photo
         image_position: top
       - title: Operations Management
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+        content: >+
+          Management of processes that transform inputs into goods and services
+          that add value for the customer.
 
 
-          **[Twitter](https://twitter.com/)**
+
         image: images/avatar_4.jpg
         image_alt: Speaker 4 photo
         image_position: top
