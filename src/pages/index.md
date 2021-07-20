@@ -18,7 +18,6 @@ sections:
     background_image_size: cover
     title: Define. Excel. Accelerate.
   - title: lorem-ipsum
-    subtitle: xzzxZx
     title_align: left
     content: >-
       ## Lorem ipsum
