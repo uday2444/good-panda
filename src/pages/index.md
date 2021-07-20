@@ -138,7 +138,6 @@ sections:
         image_position: top
         title: Tactic
       - title: Goals & Objectives
-        subtitle: 'Microsoft, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
