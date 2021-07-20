@@ -363,7 +363,7 @@ sections:
             has_icon: true
             icon: facebook
             icon_position: right
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
           - label: lorem-ipsum
