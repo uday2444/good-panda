@@ -122,12 +122,8 @@ sections:
     title: 'How Do We Work ! '
     subtitle: 'Supporting The Cause, Building Working Together Platform'
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
+      - content: |
+          A plan of action intended to accomplish a specific goal. 
         image: images/avatar_1.jpg
         image_alt: Speaker 1 photo
         image_position: top
