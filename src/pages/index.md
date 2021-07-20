@@ -40,7 +40,7 @@ sections:
         image_position: left
         image_width: twenty-five
         title: What We Believe
-      - title: What We do
+      - title: What We Do
         title_align: left
         content: >+
           Work - Grow - Align the whole process towards a common purpose which
