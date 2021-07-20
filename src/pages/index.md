@@ -367,7 +367,7 @@ sections:
             no_follow: false
             type: action
           - label: Linkedin
-            url: '#'
+            url: 'https://www.linkedin.com/company/79639336/admin/'
             style: link
             has_icon: false
             icon: linkedin
