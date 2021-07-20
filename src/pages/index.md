@@ -366,7 +366,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-          - label: Loinkedin
+          - label: Linkedin
             url: '#'
             style: link
             has_icon: false
