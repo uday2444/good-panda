@@ -139,6 +139,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: FMCG BTL Services
+        image: images/fmcg.jpg
       - title: |-
           Promoters’/ Sales
           representatives
