@@ -18,7 +18,6 @@ sections:
     background_image_size: cover
     title: Define. Excel. Accelerate.
   - title: Decision making
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
