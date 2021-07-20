@@ -81,7 +81,7 @@ sections:
         media_position: right
         media_width: sixty
         title: '  Improve And Innovate With The Technology Trends'
-      - title: We Will Urge to serve better
+      - title: We Will Urge To Serve better
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
