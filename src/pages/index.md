@@ -77,7 +77,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-        title: '  Improve And Innovate with the technology trends'
+        title: '  Improve And Innovate With the technology trends'
       - title: High-quality talks from field experts followed by Q&As
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
