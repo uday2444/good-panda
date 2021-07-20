@@ -370,7 +370,7 @@ sections:
             url: '#'
             style: link
             has_icon: false
-            icon: arrow-left
+            icon: linkedin
             icon_position: left
             new_window: false
             no_follow: false
