@@ -358,7 +358,7 @@ sections:
         actions:
           - label: Facebook
             url: >-
-              #https://www.facebook.com/Trust-Secure-Facility-Management-101462945561632/
+              https://www.facebook.com/Trust-Secure-Facility-Management-101462945561632/
             style: link
             has_icon: false
             icon: arrow-left
