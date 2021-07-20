@@ -128,8 +128,7 @@ sections:
         image_alt: Speaker 1 photo
         image_position: top
         title: Strategy
-      - subtitle: 'The Studio, Distributed, Estonia'
-        content: |+
+      - content: |+
           A maneuver or action calculated to achieve some end
 
 
