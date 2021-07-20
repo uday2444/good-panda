@@ -31,7 +31,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
-        title: 'Make Better decisions with humanity '
+        title: 'Make Better Decisions with humanity '
       - title: 2 Tracks
         title_align: left
         content: Two tracks conference for curious developers.
