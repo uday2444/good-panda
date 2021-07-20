@@ -119,7 +119,7 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
   - type: grid_section
-    title: How Together Platform
+    title: How Do We Work ! Together Platform
     subtitle: 'Supporting The Cause, Building Working Together Platform'
     grid_items:
       - title: Eric Widget
