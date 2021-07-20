@@ -120,7 +120,7 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     title: 'Supporting The Cause, Building Working Together Platform'
-    subtitle: How Do We Work!
+    subtitle: 'Supporting The Cause, Building Working Together Platform'
     grid_items:
       - title: Eric Widget
         subtitle: 'React Awesome, USA'
