@@ -150,7 +150,7 @@ sections:
 
 
 
-        image: images/avatar_4.jpg
+        image: images/operations.jpg
         image_alt: Speaker 4 photo
         image_position: top
     grid_cols: four
