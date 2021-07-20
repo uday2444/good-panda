@@ -105,7 +105,7 @@ sections:
     subtitle: Solutions We Provide
     actions: []
     grid_items:
-      - title: Security Services
+      - title: Facility Management
         title_align: center
         content_align: left
         actions:
