@@ -16,7 +16,6 @@ sections:
     background_image: images/hero-background.jpg
     background_image_opacity: 15
     background_image_size: cover
-    subtitle: Define. Excel. Accelerate.
     title: Trust Secure Facility Management
   - type: grid_section
     grid_items:
