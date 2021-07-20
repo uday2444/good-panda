@@ -354,7 +354,7 @@ sections:
           **Time:** 9:30 AM to 3:30 PM
       - title: Follow Us
         content: |
-          <br/><br/><br/>
+          <br/>
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
