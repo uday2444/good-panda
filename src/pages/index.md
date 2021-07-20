@@ -352,7 +352,7 @@ sections:
           [email@example.com](mailto:email@example.com)<br/>
 
           **Time:** 9:30 AM to 3:30 PM
-      - title: Find Us On
+      - title: Find us on
         title_align: left
         content: >+
           [Facebook](https://www.facebook.com/Trust-Secure-Facility-Management-101462945561632/)
