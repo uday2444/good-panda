@@ -68,7 +68,7 @@ sections:
     padding_bottom: medium
     background_color: none
     subtitle: Solutions We Provide
-  - title: lorem-ipsum
+  - title: Services We Offer
     subtitle: Solutions We Provide
     actions: []
     grid_items:
