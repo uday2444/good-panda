@@ -73,7 +73,7 @@ sections:
     actions: []
     grid_items:
       - title: Security Services
-        title_align: left
+        title_align: right
         content_align: left
         actions:
           - label: Read More
