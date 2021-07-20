@@ -124,7 +124,7 @@ sections:
     grid_items:
       - content: |
           A plan of action intended to accomplish a specific goal. 
-        image: images/avatar_1.jpg
+        image: images/diligent-petunia.webp
         image_alt: Speaker 1 photo
         image_position: top
         title: Strategy
