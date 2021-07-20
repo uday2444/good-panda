@@ -139,7 +139,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Facility Management System
+        title: Facility Management
       - title: |-
           Promoters’/ Sales
           representatives
