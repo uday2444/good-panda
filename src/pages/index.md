@@ -153,6 +153,7 @@ sections:
         image: images/operations.jpg
         image_alt: Speaker 4 photo
         image_position: top
+        image_has_padding: true
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: large
