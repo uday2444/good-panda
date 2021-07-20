@@ -122,8 +122,7 @@ sections:
     title: 'How Do We Work ! '
     subtitle: 'Supporting The Cause, Building Working Together Platform'
     grid_items:
-      - title: Eric Widget
-        subtitle: 'React Awesome, USA'
+      - subtitle: 'React Awesome, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
