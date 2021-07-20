@@ -144,7 +144,6 @@ sections:
         image_alt: Speaker 3 photo
         image_position: top
       - title: Operations Management
-        subtitle: 'Libris, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
