@@ -150,7 +150,6 @@ sections:
         title: FMCG BTL Services
         image: images/1081.jpg
       - title: Marketing Strategies
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
