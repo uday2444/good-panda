@@ -359,7 +359,7 @@ sections:
           - label: Facebook
             url: >-
               https://www.facebook.com/Trust-Secure-Facility-Management-101462945561632/
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
