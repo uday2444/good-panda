@@ -15,7 +15,7 @@ sections:
     background_image_opacity: 15
     background_image_size: cover
     subtitle: Define. Excel. Accelerate.
-    title: Trust Secure Facili
+    title: Trust Secure Facility Management
   - type: grid_section
     grid_items:
       - title: 2 Days
