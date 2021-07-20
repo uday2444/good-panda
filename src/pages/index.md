@@ -137,7 +137,7 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
         title: Tactic
-      - title: Indigo Violet
+      - title: Goals and objectives
         subtitle: 'Microsoft, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
