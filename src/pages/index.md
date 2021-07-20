@@ -137,7 +137,7 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
         title: Tactic
-      - title: Goals nd objectives
+      - title: Goals & objectives
         subtitle: 'Microsoft, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
