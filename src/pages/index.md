@@ -69,7 +69,7 @@ sections:
     background_color: none
     subtitle: Solutions We Provide
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Solutions We Provide
     actions: []
     grid_items:
       - title: lorem-ipsum
