@@ -19,8 +19,7 @@ sections:
     title: Define. Excel. Accelerate.
   - type: grid_section
     grid_items:
-      - title: 2 Days
-        title_align: left
+      - title_align: left
         content: >+
           Rather than importing leaders, we make grow leaders who thoroughly
           understands the companies principles 
