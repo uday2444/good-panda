@@ -353,7 +353,6 @@ sections:
 
           **Time:** 9:30 AM to 3:30 PM
       - title: Happy TO Stay Updated
-        subtitle: lorem-ip
         title_align: left
         content: >-
           ## Lorem ipsum
