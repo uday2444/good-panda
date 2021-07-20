@@ -58,7 +58,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: What you’ll experience
+    title: Services We Provide
     features:
       - content: "Two heads are better than one when it comes to good decision making\n\nFor thoroughly understanding the situation in-depth and superficial, senior executives commute worksite as we trust fixing flaw/improvement should be made on the verified data.\_\_\_ \n"
         align: center
