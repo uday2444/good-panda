@@ -120,7 +120,7 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     title: Speakers & Instructor
-    subtitle: How Do we work!
+    subtitle: How Do We Work!
     grid_items:
       - title: Eric Widget
         subtitle: 'React Awesome, USA'
