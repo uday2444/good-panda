@@ -371,7 +371,7 @@ sections:
             style: link
             has_icon: false
             icon: arrow-left
-            icon_position: left
+            icon_position: center
             new_window: false
             no_follow: false
             type: action
