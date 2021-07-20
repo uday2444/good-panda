@@ -126,7 +126,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/security.jpg
+        image: images/18959.jpg
       - title_align: center
         content_align: left
         actions: []
