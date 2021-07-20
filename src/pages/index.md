@@ -355,17 +355,11 @@ sections:
       - title: Follow Us On
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          [Facebook](https://www.facebook.com/Trust-Secure-Facility-Management-101462945561632/)\<br/>
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          [Linkedin](https://www.linkedin.com/company/79639336/admin/)\<br/>
         content_align: left
         actions: []
         actions_align: left
