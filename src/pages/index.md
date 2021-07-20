@@ -72,7 +72,7 @@ sections:
     subtitle: Solutions We Provide
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Security Services
         subtitle: lorem-ipsum
         title_align: left
         content: >-
