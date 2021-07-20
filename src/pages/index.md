@@ -138,6 +138,7 @@ sections:
         image: images/avatar_2.jpg
         image_alt: Speaker 2 photo
         image_position: top
+        title: Tactic
       - title: Indigo Violet
         subtitle: 'Microsoft, USA'
         content: >-
