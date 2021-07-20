@@ -132,6 +132,7 @@ sections:
         image: images/avatar_1.jpg
         image_alt: Speaker 1 photo
         image_position: top
+        title: Strategy
       - title: Parsley Montana
         subtitle: 'The Studio, Distributed, Estonia'
         content: >-
