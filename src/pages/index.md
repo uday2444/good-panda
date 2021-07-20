@@ -153,17 +153,6 @@ sections:
         image: images/avatar_4.jpg
         image_alt: Speaker 4 photo
         image_position: top
-      - title: Theodore Handle
-        subtitle: 'ReactEvent, Israel'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
-        image: images/avatar_8.jpg
-        image_alt: Speaker 8 photo
-        image_position: top
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: large
