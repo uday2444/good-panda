@@ -352,10 +352,6 @@ sections:
           [email@example.com](mailto:email@example.com)<br/>
 
           **Time:** 9:30 AM to 3:30 PM
-      - title: Follow Us
-        content: |+
-
-
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
