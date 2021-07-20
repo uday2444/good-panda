@@ -6,7 +6,7 @@ sections:
       Consulting for services that vow future business success, you design we
       serve
     actions:
-      - label: Get Your Ticket Today!
+      - label: Explore More!
         url: /about
         style: primary
     align: center
