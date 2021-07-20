@@ -150,7 +150,7 @@ sections:
         title: FMCG BTL Services
         image: images/1081.jpg
       - title: Marketing Strategies
-        title_align: left
+        title_align: center
         content_align: left
         actions:
           - label: Read More
