@@ -79,7 +79,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
-  - title: lorem-ipsum
+  - title: UNique Drive
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
