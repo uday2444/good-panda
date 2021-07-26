@@ -58,7 +58,6 @@ sections:
     align: center
     background_color: secondary
   - title: UNIQUE DRIVE
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
