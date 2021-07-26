@@ -60,7 +60,7 @@ sections:
   - title: Unique Drive
     actions: []
     grid_items:
-      - title_align: left
+      - title_align: center
         content: >
           Setting up a Cross functional teams to improve productive and to
           enhance flow by solving operational concerns. 
