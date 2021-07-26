@@ -58,7 +58,7 @@ sections:
     align: center
     background_color: secondary
   - title: sadb
-    subtitle: lorem-ipsum
+    subtitle: Unique Drive
     actions: []
     blog_feed_cols: three
     enable_cards: false
