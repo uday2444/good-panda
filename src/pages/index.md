@@ -64,7 +64,7 @@ sections:
         content: >
           Setting up a Cross functional teams to improve productive and to
           enhance flow by solving operational concerns. 
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
