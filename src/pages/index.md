@@ -57,7 +57,7 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
-  - title: lorem-ipsum
+  - title: sadb
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
