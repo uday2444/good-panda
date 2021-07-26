@@ -57,7 +57,7 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Unique Drive
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
