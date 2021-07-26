@@ -81,6 +81,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    author: src/data/team/person-o3bnf8xc8.json
   - title: Unique Drive
     subtitle: lorem-ipsum
     actions: []
