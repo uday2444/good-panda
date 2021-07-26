@@ -57,7 +57,7 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
-  - title: 'UNIQUE '
+  - title: UNIQUE DRIVE
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
