@@ -57,7 +57,9 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
-  - title: "sadb\_Setting up a Cross functional teams to improve\nproductive and to enhance flow by solving operational concerns."
+  - title: |-
+      Setting up a Cross functional teams to improve
+      productive and to enhance flow by solving operational concerns.
     subtitle: Unique Drive
     actions: []
     blog_feed_cols: three
