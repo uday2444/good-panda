@@ -58,17 +58,9 @@ sections:
     align: center
     background_color: secondary
   - title: UNIQUE DRIVE
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Setting up a Cross functional teams to improve productive and to enhance
+      flow by solving operational concerns. 
     actions: []
     image_alt: lorem-ipsum
     media_position: top
