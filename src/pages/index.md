@@ -58,7 +58,6 @@ sections:
     align: center
     background_color: secondary
   - title: Unique Drive
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
