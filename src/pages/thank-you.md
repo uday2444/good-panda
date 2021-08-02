@@ -40,7 +40,7 @@ sections:
         default_value: subject
         options:
           - Business Enquiries
-          - lorem-ipsum
+          - null
         is_required: true
         type: form_field
       - input_type: select
