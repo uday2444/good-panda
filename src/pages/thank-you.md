@@ -22,7 +22,7 @@ sections:
         name: Name
         default_value: Your good name
         options:
-          - lorem-ipsum
+          - MR/
         is_required: true
         type: form_field
     submit_label: lorem-ipsum
