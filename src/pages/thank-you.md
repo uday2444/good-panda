@@ -9,7 +9,7 @@ sections:
     background_color: none
     subtitle: 'It''s pleasure connecting, looking to your valuable association'
   - title: Contact
-    title_align: left
+    title_align: center
     content_align: center
     form_position: bottom
     form_width: fifty
