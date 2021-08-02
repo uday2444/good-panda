@@ -27,7 +27,7 @@ sections:
         is_required: true
         type: form_field
         label: Name
-      - input_type: text
+      - input_type: email
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
