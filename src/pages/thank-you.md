@@ -44,7 +44,7 @@ sections:
           - Facility Management
           - FMCG BTL Services
           - Web Designing
-          - lorem-ipsum
+          - Application Development
           - lorem-ipsum
         is_required: true
         type: form_field
