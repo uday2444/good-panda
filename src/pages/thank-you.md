@@ -20,7 +20,7 @@ sections:
     form_fields:
       - input_type: text
         name: Name
-        default_value: 'Your '
+        default_value: Your good name
         options: []
         is_required: false
         type: form_field
