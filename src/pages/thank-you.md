@@ -40,7 +40,7 @@ sections:
         default_value: please select
         options:
           - Security
-          - Hous
+          - House Keeping
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
