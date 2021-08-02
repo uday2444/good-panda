@@ -20,7 +20,7 @@ sections:
     form_fields:
       - input_type: text
         name: Name
-        default_value: lorem-ipsum
+        default_value: 'Your '
         options: []
         is_required: false
         type: form_field
