@@ -8,7 +8,7 @@ sections:
     padding_bottom: large
     background_color: none
     subtitle: 'It''s pleasure connecting, looking to your valuable association'
-  - title: lorem-ipsum
+  - title: COntact
     subtitle: lorem-ipsum
     title_align: left
     content: >-
