@@ -59,8 +59,7 @@ sections:
     background_color: secondary
   - title: What You'll Experience
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
