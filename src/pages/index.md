@@ -341,7 +341,7 @@ sections:
     background_color: none
 seo:
   title: TSFM
-  description: The preview of the Event theme
+  description: The preview of the TSFM
   extra:
     - name: 'og:type'
       value: website
