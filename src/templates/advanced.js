@@ -28,4 +28,4 @@ export default class Advanced extends React.Component {
             </Layout>
         );
     }
-}
+}*/
