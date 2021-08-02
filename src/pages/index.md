@@ -59,14 +59,7 @@ sections:
     background_color: secondary
   - title: What You'll Experience
     features:
-      - content: >2
-              Two heads are better than one when it comes to good decision making
-
-
-
-          For thoroughly understanding the situation in-depth and superficial,
-          senior executives commute worksite as we trust fixing flaw/improvement
-          should be made on the verified data.
+      - content: "Two heads are better than one when it comes to good decision making\r.\n\n\nFor thoroughly understanding the situation in-depth and superficial, senior executives commute worksite as we trust fixing flaw/improvement should be made on the verified data.\n"
         actions: []
         image_alt: lorem-ipsum
         media_position: top
