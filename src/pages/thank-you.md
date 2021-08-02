@@ -23,7 +23,7 @@ sections:
         default_value: Your good name
         options:
           - Mr
-          - Mrs
+          - Ms
         is_required: true
         type: form_field
     submit_label: lorem-ipsum
