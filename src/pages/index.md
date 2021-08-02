@@ -7,7 +7,7 @@ sections:
       serve
     actions:
       - label: Explore More!
-        url: /about
+        url: /about-company
         style: primary
     align: center
     padding_top: large
