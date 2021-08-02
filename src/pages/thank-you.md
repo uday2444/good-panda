@@ -13,6 +13,6 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
-    subtitle: It's pleasure connecting
+    subtitle: 'It''s pleasure connecting '
 template: advanced
 ---
