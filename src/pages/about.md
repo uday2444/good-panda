@@ -64,6 +64,3 @@ seo:
       relativeUrl: true
 template: advanced
 ---
-
-template: page
----
