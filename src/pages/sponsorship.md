@@ -21,20 +21,20 @@ seo:
       value: This is the sponsorship page
 template: page
 ---
-*   Security
+#### Security
 
-*   House keeping
+#### House keeping
 
-*   Facility Management
+#### Facility Management
 
-*   FMCG BTL services
+#### FMCG BTL services
 
-*   Pay rolling services
+#### Pay rolling services
 
-*   Web Designing
+#### Web Designing
 
-*   Application Development (Android / IOS)
+#### Application Development (Android / IOS)
 
-*   Digital Marketing
+#### Digital Marketing
 
-*   CSR Collaboration
+#### CSR Collaboration
