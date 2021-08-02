@@ -119,7 +119,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: No More
+          - label: Know More
             url: /thank-you
             style: primary
             has_icon: false
