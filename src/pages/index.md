@@ -77,6 +77,40 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+  - type: features_section
+    features:
+      - content: >+
+          Learning is an everyday process, along with these stuffs’
+          implementation do remarkable changes, we do inherit the trends within
+          our cultured operational views.
+
+
+
+        image: images/feature-1.jpg
+        image_alt: Feature 1 placeholder image
+        media_position: right
+        media_width: sixty
+        title: '  Improve And Innovate With The Technology Trends'
+      - title: We Will Urge To Serve Better
+        content: "Operations decisions include decisions that are strategic in nature, meaning that they have long-term consequences and often involve a great deal of expense and resource commitments. \n\nEmployee’s talent empowerment and rigorously training by seeing their present level of knowledge and areas of improvement needed\_\n"
+        image: images/feature-2.jpg
+        image_alt: Feature 2 placeholder image
+        media_position: left
+        media_width: sixty
+      - title: We Help To Businesses Grow
+        content: >
+          As a part of organizational growth every individual contribution plays
+          a vital role with irrespective of roles, we do take as an opportunity
+          to serve with solutions oriented, transparency, honesty deliverance
+          with ensuring growth.
+        image: images/feature-3.jpg
+        image_alt: Feature 3 placeholder image
+        media_position: right
+        media_width: sixty
+    feature_padding_vert: large
+    align: center
+    padding_top: none
+    background_color: none
   - title: Services We Offer
     subtitle: Solutions We Provide
     actions: []
@@ -161,40 +195,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: features_section
-    features:
-      - content: >+
-          Learning is an everyday process, along with these stuffs’
-          implementation do remarkable changes, we do inherit the trends within
-          our cultured operational views.
-
-
-
-        image: images/feature-1.jpg
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: sixty
-        title: '  Improve And Innovate With The Technology Trends'
-      - title: We Will Urge To Serve Better
-        content: "Operations decisions include decisions that are strategic in nature, meaning that they have long-term consequences and often involve a great deal of expense and resource commitments. \n\nEmployee’s talent empowerment and rigorously training by seeing their present level of knowledge and areas of improvement needed\_\n"
-        image: images/feature-2.jpg
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: sixty
-      - title: We Help To Businesses Grow
-        content: >
-          As a part of organizational growth every individual contribution plays
-          a vital role with irrespective of roles, we do take as an opportunity
-          to serve with solutions oriented, transparency, honesty deliverance
-          with ensuring growth.
-        image: images/feature-3.jpg
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: sixty
-    feature_padding_vert: large
-    align: center
-    padding_top: none
-    background_color: none
   - type: cta_section
     title: This is a Call to Action
     actions:
