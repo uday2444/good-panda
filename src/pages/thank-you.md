@@ -13,6 +13,6 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
-    subtitle: 'It''s pleasure connecting, looking for your''re valuable'
+    subtitle: 'It''s pleasure connecting, looking for you''re valuable'
 template: advanced
 ---
