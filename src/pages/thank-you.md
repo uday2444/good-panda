@@ -39,7 +39,7 @@ sections:
         label: Subject
         default_value: subject
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: text
         name: lorem-ipsum
