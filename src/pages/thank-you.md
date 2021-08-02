@@ -3,13 +3,7 @@ title: Contact us
 sections:
   - type: hero_section
     title: Get in touch
-    actions:
-      - label: Back to homepage
-        url: /
-        style: primary
-        has_icon: true
-        icon: arrow-left
-        icon_position: left
+    actions: []
     align: center
     padding_bottom: large
     background_color: none
