@@ -1,5 +1,5 @@
 ---
-title: Sponsorship
+title: Happy To Serve
 seo:
   title: Sponsorship
   description: This is the sponsorship page
