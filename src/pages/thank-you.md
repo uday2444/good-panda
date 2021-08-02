@@ -1,18 +1,28 @@
 ---
-title: Thank You
+title: Contact
 sections:
   - type: hero_section
-    title: Thank You!
-    subtitle: Thank you for testing the Event theme!
-    actions:
-      - label: Back to homepage
-        url: /
-        style: primary
-        has_icon: true
-        icon: arrow-left
-        icon_position: left
+    title: Contact
     align: center
-    padding_bottom: large
-    background_color: none
+  - type: contact_section
+seo:
+  title: Contact
+  description: This is the contact page
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Contact
+      keyName: property
+    - name: 'og:description'
+      value: This is the contact page
+      keyName: property
+    - name: 'twitter:card'
+      value: summary
+    - name: 'twitter:title'
+      value: Contact
+    - name: 'twitter:description'
+      value: This is the contact page
 template: advanced
 ---
