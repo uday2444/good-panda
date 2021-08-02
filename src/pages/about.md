@@ -62,5 +62,5 @@ seo:
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
-template: advanced
+template: page
 ---
