@@ -1,5 +1,5 @@
 ---
-title: About Company
+title: Who We Are
 seo:
   title: ''
   description: ''
