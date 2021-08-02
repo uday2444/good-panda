@@ -180,7 +180,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/marketing-strategy-connting-digital-devices-concept.jpg
+        image: images/marketingstrategies.jpg
     grid_cols: three
     grid_gap_vert: medium
     grid_gap_horiz: medium
