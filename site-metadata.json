@@ -39,5 +39,6 @@
         "content": "&copy; TrustSecureFacilityManagement. All rights reserved. "
     },
     "title": "About US",
-    "domain": "https://www.trustsecur.com"
+    "domain": "https://www.trustsecur.com",
+    "favicon": "images/great-oregano.jpeg"
 }
