@@ -44,7 +44,7 @@ sections:
           - Facility Management
           - FMCG BTL Services
           - Web Designing
-          - Application Development
+          - Application Development(Android/IOS)
           - Digital Marketing
         is_required: true
         type: form_field
