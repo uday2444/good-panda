@@ -3,7 +3,6 @@ title: Contact us
 sections:
   - type: hero_section
     title: Get in touch
-    subtitle: Thank you for testing the Event theme!
     actions:
       - label: Back to homepage
         url: /
