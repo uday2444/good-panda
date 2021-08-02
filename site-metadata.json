@@ -24,7 +24,7 @@
             {
                 "label": "Contact US",
                 "url": "thank-you",
-                "style": "primary",
+                "style": "link",
                 "icon": "arrow-right"
             }
         ],
