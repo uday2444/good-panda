@@ -59,9 +59,8 @@ sections:
     background_color: secondary
   - title: What You'll Experience
     features:
-      - content: >
-          Two heads are better than one when it comes to good decision making
-
+      - content: >2
+                                                                      Two heads are better than one when it comes to good decision making
 
           For thoroughly understanding the situation in-depth and superficial,
           senior executives commute worksite as we trust fixing flaw/improvement
