@@ -158,7 +158,7 @@ sections:
         image_has_padding: true
         type: grid_item
         title: FMCG BTL Services
-        image: images/1081.jpg
+        image: images/magenta-yam.jpg
       - title: Marketing Strategies
         title_align: center
         content_align: left
