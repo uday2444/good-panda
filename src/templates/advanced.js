@@ -28,10 +28,5 @@ export default class Advanced extends React.Component {
             </Layout>
         );
     }
-}*/
-import React from 'react';
-import _ from 'lodash';
-import {graphql} from 'gatsby';
-
-import components, {Layout} from '../components/index';
+}
 
