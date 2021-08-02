@@ -46,7 +46,7 @@ sections:
           - Web Designing
           - Application Development(Android/IOS)
           - Digital Marketing
-          - lorem-ipsum
+          - CSR Collaboration
         is_required: true
         type: form_field
       - input_type: select
