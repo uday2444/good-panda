@@ -59,17 +59,13 @@ sections:
     background_color: secondary
   - title: What You'll Experience
     features:
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          Two heads are better than one when it comes to good decision making
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          For thoroughly understanding the situation in-depth and superficial,
+          senior executives commute worksite as we trust fixing flaw/improvement
+          should be made on the verified data.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
