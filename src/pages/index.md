@@ -141,7 +141,7 @@ sections:
         content_align: left
         actions:
           - label: No More
-            url: /thank
+            url: /thank-you
             style: primary
             has_icon: false
             icon: arrow-left
