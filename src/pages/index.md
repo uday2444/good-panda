@@ -163,7 +163,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: Read More
+          - label: Know More
             url: '#'
             style: primary
             has_icon: false
