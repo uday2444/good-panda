@@ -38,7 +38,8 @@ sections:
         name: Subject
         label: Subject
         default_value: subject
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
         type: form_field
       - input_type: select
