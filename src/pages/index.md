@@ -58,7 +58,6 @@ sections:
     align: center
     background_color: secondary
   - title: What You'll Experience
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
