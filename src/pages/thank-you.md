@@ -20,7 +20,7 @@ sections:
     form_fields:
       - input_type: text
         name: Name
-        default_value: Your good name
+        default_value: Your name
         options:
           - Mr
           - Ms
