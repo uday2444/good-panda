@@ -350,7 +350,7 @@ seo:
       value: TSFM
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: The preview of the TSFM
       keyName: property
     - name: 'og:image'
       value: images/feature-3.jpg
