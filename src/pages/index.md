@@ -164,7 +164,7 @@ sections:
         content_align: left
         actions:
           - label: Know More
-            url: '#'
+            url: /thank-you
             style: primary
             has_icon: false
             icon: arrow-left
