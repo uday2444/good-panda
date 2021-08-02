@@ -353,7 +353,7 @@ seo:
       value: The preview of the TSFM
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: images/WhatsApp Image 2021-08-02 at 2.33.58 AM.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
