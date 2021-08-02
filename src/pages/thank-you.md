@@ -26,6 +26,7 @@ sections:
           - Ms
         is_required: true
         type: form_field
+        label: Name
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
