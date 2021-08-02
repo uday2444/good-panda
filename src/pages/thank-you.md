@@ -45,7 +45,7 @@ sections:
           - FMCG BTL Services
           - Web Designing
           - Application Development
-          - lorem-ipsum
+          - Digital Marketing
         is_required: true
         type: form_field
       - input_type: select
