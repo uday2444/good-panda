@@ -40,7 +40,7 @@ sections:
         default_value: please select
         options:
           - Business Enquiries
-          - Services
+          - null
         is_required: true
         type: form_field
       - input_type: select
