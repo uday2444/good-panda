@@ -42,7 +42,7 @@ sections:
           - Security
           - House Keeping
           - Facility Management
-          - lorem-ipsum
+          - FMCG BTL Services
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
