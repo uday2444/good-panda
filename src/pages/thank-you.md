@@ -8,6 +8,6 @@ sections:
     padding_bottom: large
     background_color: none
     subtitle: 'It''s pleasure connecting, looking to your valuable association'
-  - - type: contact_section
+  -type: contact_section
 template: advanced
 ---
