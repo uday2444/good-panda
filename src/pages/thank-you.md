@@ -1,5 +1,5 @@
 ---
-title: 'Get '
+title: Get in touch
 sections:
   - type: hero_section
     title: Thank You!
