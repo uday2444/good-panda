@@ -40,7 +40,7 @@ sections:
         default_value: please select
         options:
           - Security
-          - FMCG BTL Services
+          - Hous
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
