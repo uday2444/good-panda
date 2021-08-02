@@ -57,7 +57,7 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
-  - title: lorem-ipsum
+  - title: What
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
