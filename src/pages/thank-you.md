@@ -36,7 +36,7 @@ sections:
         type: form_field
       - input_type: text
         name: Subject
-        label: lorem-ipsum
+        label: Subject
         default_value: lorem-ipsum
         options: []
         is_required: false
