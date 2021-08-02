@@ -120,7 +120,7 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: '#Contact us'
+            url: /contact
             style: primary
             has_icon: false
             icon: arrow-left
