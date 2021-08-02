@@ -23,7 +23,7 @@ template: page
 ---
 #### Security
 
-#### House keeping
+House keeping
 
 #### Facility Management
 
