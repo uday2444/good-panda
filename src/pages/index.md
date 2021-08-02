@@ -136,7 +136,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/fm2.jpg
+        image: images/fm3.jpg
       - title_align: center
         content_align: left
         actions:
