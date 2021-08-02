@@ -27,7 +27,8 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "anncmnt_align": "center"
     },
     "footer": {
         "has_primary_nav": false,
