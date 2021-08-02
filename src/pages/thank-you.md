@@ -41,7 +41,7 @@ sections:
         options:
           - Security
           - House Keeping
-          - lorem-ipsum
+          - Facility Management
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
