@@ -155,7 +155,7 @@ sections:
         image_position: top
         image_width: sixty
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         title: FMCG BTL Services
         image: images/superb-petunia.jpg
