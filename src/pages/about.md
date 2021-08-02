@@ -1,5 +1,16 @@
 ---
 title: About
+sections:
+  - type: hero_section
+    title: Who We Are
+    align: center
+  - type: content_section
+    content: >-
+      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
+      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
+      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
+      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
+      adipiscing elit pellentesque habitant.
 seo:
   title: About
   description: This is the about us page
