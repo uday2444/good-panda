@@ -43,7 +43,7 @@ sections:
           - House Keeping
           - Facility Management
           - FMCG BTL Services
-          - lorem-ipsum
+          - Web Des
           - lorem-ipsum
           - lorem-ipsum
         is_required: true
