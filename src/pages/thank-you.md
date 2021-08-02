@@ -42,6 +42,7 @@ sections:
           - Business Enquiries
           - FMCG BTL Services
           - lorem-ipsum
+          - lorem-ipsum
         is_required: true
         type: form_field
       - input_type: select
