@@ -155,7 +155,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         type: grid_item
         title: FMCG BTL Services
         image: images/fmcg.jpg
