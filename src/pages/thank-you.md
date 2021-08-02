@@ -55,6 +55,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        default_value: your message
     submit_label: Submit
     align_vert: top
     padding_top: medium
