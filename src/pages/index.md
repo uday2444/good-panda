@@ -158,7 +158,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: FMCG BTL Services
-        image: images/fmcg.jpg
+        image: images/abstract-blur-defocused-supermarket.jpg
       - title: Marketing Strategies
         title_align: center
         content_align: left
