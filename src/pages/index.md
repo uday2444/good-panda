@@ -140,7 +140,7 @@ sections:
       - title_align: center
         content_align: left
         actions:
-          - label: Kno More
+          - label: Know More
             url: /thank-you
             style: primary
             has_icon: false
