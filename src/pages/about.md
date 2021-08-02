@@ -1,5 +1,4 @@
 ---
----
 title: Who We Are
 sections:
   - type: hero_section
