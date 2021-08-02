@@ -37,7 +37,7 @@ sections:
       - input_type: select
         name: Subject
         label: Subject
-        default_value: 'Please '
+        default_value: Please select
         options:
           - Business Enquiries
           - null
